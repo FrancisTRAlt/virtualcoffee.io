@@ -64,9 +64,6 @@ export default function Nav() {
 						<ul
 							className={`dropdown-menu${isResourcesOpen ? ' show' : ''}`}
 							aria-labelledby="navbarResourcesDropdown"
-							style={{
-								backgroundColor: 'var(--bs-dark)',
-							}}
 						>
 							<li className="mb-2">
 								<Link

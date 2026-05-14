@@ -27,7 +27,6 @@ export default async function Home() {
 
 	return (
 		<>
-
 			<div className="container pt-5 pb-5 pt-sm-6">
 				<h1>
 					<VirtualCoffeeFullBanner />
@@ -36,8 +35,7 @@ export default async function Home() {
 				<h2 className="pt-5">
 					<span>An intimate tech community for all,</span>{' '}
 					<span>
-						optimized for{' '}
-						<strong className="gradient-text-primary">you</strong>
+						optimized for <strong className="gradient-text-primary">you</strong>
 					</span>
 				</h2>
 			</div>
@@ -45,11 +43,10 @@ export default async function Home() {
 			<div className="container pt-3 pb-5">
 				<div className="bodycopy lead">
 					<p>
-						Virtual Coffee is a tech community where friendships are formed
-						and support is given to people at all stages of their journey.
-						Join our laid-back twice-weekly conversations and our online
-						events to connect with people who share your passion for
-						technology.
+						Virtual Coffee is a tech community where friendships are formed and
+						support is given to people at all stages of their journey. Join our
+						laid-back twice-weekly conversations and our online events to
+						connect with people who share your passion for technology.
 					</p>
 
 					<p>
